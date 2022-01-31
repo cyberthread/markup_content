@@ -22,5 +22,3 @@ Not sure what one of the tags is? Use the [Mozilla Developer's Network HTML elem
 - [ ] Contextual and clickable hyperlinks (this will require a slight re-writing of a small portion of the content)
 - [ ] Valid code (use the [W3C Validation Service](https://validator.w3.org/) take a screenshot)
 - [ ] Make the webpage live
-- [ ] At least 2 commits (one for markup and one for making site live)
-- [ ] You'll need to submit the URL to the live site and a screenshot demonstrating the code is valid on Blackboard.
